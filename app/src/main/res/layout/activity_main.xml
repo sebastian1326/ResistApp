@@ -131,7 +131,7 @@
         android:layout_height="50dp"
         android:layout_marginStart="36dp"
         android:layout_marginTop="48dp"
-        android:text="Cinta1"
+        android:text="@string/band1"
         app:layout_constraintEnd_toStartOf="@+id/button2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_w" />
@@ -143,7 +143,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="48dp"
         android:layout_marginEnd="27dp"
-        android:text="Cinta2"
+        android:text="@string/band2"
         app:layout_constraintEnd_toStartOf="@+id/button3"
         app:layout_constraintStart_toEndOf="@+id/button1"
         app:layout_constraintTop_toBottomOf="@+id/button_w" />
@@ -154,7 +154,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="48dp"
         android:layout_marginEnd="32dp"
-        android:text="Cinta3"
+        android:text="@string/band3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button2"
         app:layout_constraintTop_toBottomOf="@+id/button_w" />
@@ -163,7 +163,7 @@
         android:id="@+id/textView4"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:background="@color/lime"
+        android:background="@color/red"
         android:text="@string/resist_tx"
         android:textColor="@color/black"
         android:textSize="20sp"

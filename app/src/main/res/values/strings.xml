@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">ResistApp</string>
     <string name="value" ></string>
-    <string name="resist_tx">Codigo de colores de las resistencia</string>
+    <string name="resist_tx">Codigo de Colores de las Resistencia</string>
+    <string name="band1">banda1</string>
+    <string name="band2">banda2</string>
+    <string name="band3">banda3</string>
 </resources>

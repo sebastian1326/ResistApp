@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ResistApp</string>
+    <string name="value" ></string>
+    <string name="resist_tx">Resist Color Code</string>
+    <string name="band1">band1</string>
+    <string name="band2">band2</string>
+    <string name="band3">band3</string>
+</resources>
