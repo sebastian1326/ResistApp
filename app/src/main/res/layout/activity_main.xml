@@ -6,7 +6,7 @@
     style="mkk"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/tema"
+    android:background="@color/white"
     android:visibility="visible"
     tools:context=".ui.main.MainActivity">
 
